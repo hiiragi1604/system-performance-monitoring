@@ -27,6 +27,8 @@ The Power BI dashboard displays key metrics for live system performance, includi
 - **CPU Metrics**: Frequency and utilization percentage.
 - **GPU Metrics**: Memory usage and utilization for Nvidia GPUs.
 - **RAM Usage**: Total and used memory.
+   
+![Screenshot 2024-10-27 025029](https://github.com/user-attachments/assets/9319c62a-2e26-491e-8f8d-023dcc43ca96)
 
 ## Notes
 
